@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Review what you learned in this section
+- Review what you learned in this section.
 
 ## Conclusion
 
